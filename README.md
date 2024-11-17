@@ -63,10 +63,14 @@ endmodule
 
 
 **RTL LOGIC FOR FLIPFLOPS**
+
 ![Screenshot 2024-11-17 190046](https://github.com/user-attachments/assets/a87bd80d-8525-4cc3-b97f-6d996444290e)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![Screenshot 2024-11-17 221132](https://github.com/user-attachments/assets/c33e823e-1f3d-474d-8913-811a7b03e350)
 
+
 **RESULTS**
+
 To implement JK flipflop using verilog and validating their functionality using their functional tables has been successfully compeleted.
