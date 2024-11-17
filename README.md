@@ -44,7 +44,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ```
 Developed by : Sana Fathima H
 Register number : 212223240145
-module jkff(j,k,clk,q,qbar);
+module jk(j,k,clk,q,qbar);
 input j,k,clk;
 output reg q,qbar;
 initial 
