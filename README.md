@@ -70,7 +70,7 @@ module e7(j, k, clk, rst, q);
 ![image](https://github.com/user-attachments/assets/fd67d06c-7640-43fb-86e6-bd2e8623f192)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![image](https://github.com/user-attachments/assets/2c6c1118-bbf8-4dbb-871e-d7b139fdf4c2)
 
